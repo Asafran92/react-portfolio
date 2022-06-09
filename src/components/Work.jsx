@@ -3,6 +3,7 @@ import WorkImg from '../assets/run-buddy.PNG'
 import Project from '../assets/group-project2.PNG'
 import TimeTracker from '../assets/work-day-scheduler.PNG'
 import RandomPassword from '../assets/random-password-generator.PNG'
+import Project3 from '../assets/Ouid.PNG'
 
 const Work = () => {
   return (
@@ -36,6 +37,13 @@ const Work = () => {
                 </div>
                 <div>
                 <img src={RandomPassword} alt="RandomPassword" />
+
+                </div>
+
+                <div>
+                <a href="https://fathomless-peak-27221.herokuapp.com/">
+                    <img src={Project3} alt="Oui'd Cavern" />
+                </a>
 
                 </div>
             </div>
